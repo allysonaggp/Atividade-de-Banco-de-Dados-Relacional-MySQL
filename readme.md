@@ -17,7 +17,7 @@
 <br>
 
 ````
-🔹 Atividade 01 – RH
+🔹 Atividade 01 – RH Empresa
 
 - Crie um banco de dados para um serviço de RH de uma empresa.
 - Crie uma tabela colaboradores com 5 atributos relevantes.
