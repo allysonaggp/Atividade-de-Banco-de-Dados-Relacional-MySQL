@@ -57,9 +57,15 @@
 
 📂 Organização do Repositório
 ````
-├── exe01.sql   # Scripts da Atividade 01 (RH)
-├── exe02.sql   # Scripts da Atividade 02 (E-commerce)
-├── exe03.sql   # Scripts da Atividade 03 (Escola)
+exercicios banco de dados
+├── 1 - exercicio
+|   └── db_rh_empresa   # Scripts da Atividade 01 (RH Empresa)
+├── 2 - exercicio
+|   └── db_e_commerce   # Scripts da Atividade 02 (E-commerce)
+├── 3 - exercicio
+|   └── db_escola       # Scripts da Atividade 03 (Escola)
+|
+├── 02 - Atividade de banco de dados relacional Mysql
 └── README.md   # Documentação do projeto
 ````
 
