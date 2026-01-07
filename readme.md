@@ -11,7 +11,7 @@
 <li>Caso solicitado, adicione também links individuais dos scripts SQL.</li>
 </ul>
 </div>
-<br>
+
 
 <h3>📝 Atividades Práticas</h3>
 <br>
