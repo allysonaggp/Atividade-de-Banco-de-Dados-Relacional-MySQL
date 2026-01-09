@@ -10,7 +10,7 @@ Cada exercício foi resolvido em um arquivo separado, conforme instruções:
 <p>✔️ Atividade 2 (Pizzaria)</p>
 <p>✔️ Atividade 3 (Farmácia)</p>
 <p>✔️ Atividade 4 (Açougue/Hortifruti)</p>
-<p>❌ Atividade 5 (Material de Construção)</p>
+<p>✔️ Atividade 5 (Material de Construção)</p>
 <p>❌ Atividade 6 (Cursos Online)</p>
 <br>
 
